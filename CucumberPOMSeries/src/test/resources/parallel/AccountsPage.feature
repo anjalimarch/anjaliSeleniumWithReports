@@ -24,5 +24,3 @@ Feature: Account Page Feature
     And accounts section count should be 4
 
     
-   // \"(.*)\"
-   //\"(.*)\"
