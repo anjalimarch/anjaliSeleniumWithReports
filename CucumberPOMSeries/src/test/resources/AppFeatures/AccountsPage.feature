@@ -22,7 +22,3 @@ Feature: Account Page Feature
     |My Affiliate Account|
     |Newsletter|
     And accounts section count should be 4
-
-    
-   // \"(.*)\"
-   //\"(.*)\"
